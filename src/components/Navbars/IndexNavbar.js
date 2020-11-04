@@ -139,7 +139,7 @@ function IndexNavbar() {
                   <p>Agenda tu cita</p>
                 </Button>
                 <UncontrolledTooltip target="#upgrade-to-pro">
-                  Cooming soon!
+                  Vamos a agendar!
                 </UncontrolledTooltip>
               </NavItem>
               <NavItem>
@@ -152,7 +152,7 @@ function IndexNavbar() {
                   <p className="d-lg-none d-xl-none">Facebook</p>
                 </NavLink>
                 <UncontrolledTooltip target="#facebook-tooltip">
-                  Like us on Facebook
+                  Danos Like en Facebook
                 </UncontrolledTooltip>
               </NavItem>
               <NavItem>
@@ -165,7 +165,20 @@ function IndexNavbar() {
                   <p className="d-lg-none d-xl-none">Instagram</p>
                 </NavLink>
                 <UncontrolledTooltip target="#instagram-tooltip">
-                  Follow us on Instagram
+                  Siguenos en Instagram
+                </UncontrolledTooltip>
+              </NavItem>
+              <NavItem>
+                <NavLink
+                  href="https://api.whatsapp.com/send?phone=573057060487&text=hola%20soy%20tu"
+                  target="_blank"
+                  id="whatsapp-tooltip"
+                >
+                  <i className="fab fa-whatsapp"></i>
+                  <p className="d-lg-none d-xl-none">Facebook</p>
+                </NavLink>
+                <UncontrolledTooltip target="#whatsapp-tooltip">
+                  Vamos a WhatsApp
                 </UncontrolledTooltip>
               </NavItem>
             </Nav>
