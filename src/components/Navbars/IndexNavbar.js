@@ -170,7 +170,7 @@ function IndexNavbar() {
               </NavItem>
               <NavItem>
                 <NavLink
-                  href="https://api.whatsapp.com/send?phone=573057060487&text=hola%20soy%20tu"
+                  href="https://api.whatsapp.com/send?phone=573057060487&text=hola,%20me%20gustaria%20mas%20informacion%20de%20tus%20servicios."
                   target="_blank"
                   id="whatsapp-tooltip"
                 >
