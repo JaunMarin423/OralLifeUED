@@ -30,6 +30,8 @@ function Images() {
                   src={require("assets/img/hero-image-3.png")}
                 ></img>
               </div>
+              <div>
+              </div>
             </Col>
           </Row>
         </Container>
