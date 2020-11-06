@@ -64,35 +64,6 @@ function OurServices() {
             <Card className="card-signup" data-background-color="blue">
               <Form action="" className="form" method="">
                 <CardHeader className="text-center">
-                  <img className="imageDental" src="https://static.wixstatic.com/media/0648cd_d3ddd44de04a411a9f5f924aad97fd6d~mv2.png/v1/fill/w_120,h_105,al_c,q_85,usm_0.66_1.00_0.01/Artboard%204_150x.webp"/>
-                  <h2 className="subtitle">
-                    Implantes
-                  </h2>
-                </CardHeader>
-                <CardBody>
-
-                </CardBody>
-                <CardFooter className="text-center">
-                  <Button
-                    className="btn-neutral btn-round"
-                    color="info"
-                    href="#pablo"
-                    onClick={(e) => e.preventDefault()}
-                    size="lg"
-                  >
-                    Más Información
-                  </Button>
-                </CardFooter>
-              </Form>
-            </Card>
-
-          </Col>
-
-          <Col>
-
-            <Card className="card-signup" data-background-color="blue">
-              <Form action="" className="form" method="">
-                <CardHeader className="text-center">
                 <img className="imageDental" src="https://static.wixstatic.com/media/0648cd_f8d2cb8cb07645e3ac69ea80a76251de~mv2.png/v1/fill/w_120,h_105,al_c,q_85,usm_0.66_1.00_0.01/Artboard%205_150x.webp"/>
                 <h2 className="subtitle">
                   Ortodoncia
@@ -124,7 +95,36 @@ function OurServices() {
                 <CardHeader className="text-center">
                   <img className="imageDental" src="https://static.wixstatic.com/media/0648cd_7e168ba791fe4e59921f148b780b48e1~mv2.png/v1/fill/w_120,h_105,al_c,q_85,usm_0.66_1.00_0.01/Artboard%206_150x.webp"/>
                   <h2 className="subtitle">
-                    Cirugía
+                    Cirugía Oral
+                  </h2>
+                </CardHeader>
+                <CardBody>
+
+                </CardBody>
+                <CardFooter className="text-center">
+                  <Button
+                    className="btn-neutral btn-round"
+                    color="info"
+                    href="#pablo"
+                    onClick={(e) => e.preventDefault()}
+                    size="lg"
+                  >
+                    Más Información
+                  </Button>
+                </CardFooter>
+              </Form>
+            </Card>
+
+          </Col>
+
+          <Col>
+
+            <Card className="card-signup" data-background-color="blue">
+              <Form action="" className="form" method="">
+                <CardHeader className="text-center">
+                  <img className="imageDental" src="https://static.wixstatic.com/media/0648cd_d3ddd44de04a411a9f5f924aad97fd6d~mv2.png/v1/fill/w_120,h_105,al_c,q_85,usm_0.66_1.00_0.01/Artboard%204_150x.webp"/>
+                  <h2 className="subtitle">
+                    Implantes Dentales
                   </h2>
                 </CardHeader>
                 <CardBody>
