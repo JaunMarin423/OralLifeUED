@@ -1,4 +1,4 @@
-# Crypto Tracker
+# OralLifeUED
 
 _Este proyecto esta pensado para mejorar y aprender más asobre React Native_
 ![Captura de recetas]()
