@@ -38,7 +38,7 @@ function OurServices() {
                 <CardHeader className="text-center">
                   <img className="imageDental" src="https://static.wixstatic.com/media/0648cd_21f8be0b671148be8099107599a3da12~mv2.png/v1/fill/w_120,h_105,al_c,q_85,usm_0.66_1.00_0.01/Artboard%203_150x.webp"/>
                   <h2 className="subtitle">
-                    Estética
+                    Estética Dental
                   </h2>
                 </CardHeader>
                 <CardBody>
