@@ -147,7 +147,7 @@ function OurServices() {
           </Col>
 
           </Row>
-          {/* <div className="col text-center">
+          <div className="col text-center">
             <Button
               className="btn-round btn-white"
               color="default"
@@ -156,9 +156,9 @@ function OurServices() {
               size="lg"
               tag={Link}
             >
-              View Login Page
+              Más Tratamientos
             </Button>
-          </div> */}
+          </div>
         </Container>
       </div>
     </>
