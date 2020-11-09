@@ -34,6 +34,7 @@ import EsteticaDental from "views/examples/EsteticaDental.js";
 import Ortodoncia from "views/examples/Ortodoncia.js";
 import CirugiaOral from "views/examples/CirugiaOral.js";
 import ImplantesDental from "views/examples/ImplantesDental.js";
+import MoreTreatments from "views/examples/MoreTreatments.js";
 
 
 
@@ -45,6 +46,10 @@ ReactDOM.render(
         <Route
           path="/nucleo-icons"
           render={(props) => <NucleoIcons {...props} />}
+        />
+        <Route
+          path="/more-treatments"
+          render={(props) => <MoreTreatments {...props} />}
         />
         <Route
           path="/landing-page"

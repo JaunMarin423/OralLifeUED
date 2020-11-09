@@ -152,7 +152,7 @@ function OurServices() {
             <Button
               className="btn-round btn-white"
               color="default"
-              to="/login-page"
+              to="/more-treatments"
               outline
               size="lg"
               tag={Link}
