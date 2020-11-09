@@ -89,7 +89,7 @@ function ExamplesNavbar() {
           </UncontrolledDropdown>
           <div className="navbar-translate">
             <NavbarBrand
-              href="https://demos.creative-tim.com/now-ui-kit-react/index?ref=nukr-examples-navbar"
+              href="https://oral-life-ued.vercel.app/index"
               target="_blank"
               id="navbar-brand"
             >
