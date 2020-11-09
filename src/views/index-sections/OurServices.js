@@ -49,9 +49,9 @@ function OurServices() {
                   <Button
                     className="btn-neutral btn-round"
                     color="info"
-                    href="#pablo"
-                    onClick={(e) => e.preventDefault()}
+                    to="/estetica-dental"
                     size="lg"
+                    tag={Link}
                   >
                     Más Información
                   </Button>
@@ -77,9 +77,9 @@ function OurServices() {
                   <Button
                     className="btn-neutral btn-round"
                     color="info"
-                    href="#pablo"
-                    onClick={(e) => e.preventDefault()}
+                    to="/Ortodoncia"
                     size="lg"
+                    tag={Link}
                   >
                     Más Información
                   </Button>
@@ -106,9 +106,9 @@ function OurServices() {
                   <Button
                     className="btn-neutral btn-round"
                     color="info"
-                    href="#pablo"
-                    onClick={(e) => e.preventDefault()}
+                    to="/cirugia-oral"
                     size="lg"
+                    tag={Link}
                   >
                     Más Información
                   </Button>
@@ -135,9 +135,9 @@ function OurServices() {
                   <Button
                     className="btn-neutral btn-round"
                     color="info"
-                    href="#pablo"
-                    onClick={(e) => e.preventDefault()}
+                    to="/implantes-dental"
                     size="lg"
+                    tag={Link}
                   >
                     Más Información
                   </Button>

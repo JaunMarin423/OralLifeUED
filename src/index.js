@@ -30,6 +30,12 @@ import NucleoIcons from "views/NucleoIcons.js";
 import LoginPage from "views/examples/LoginPage.js";
 import LandingPage from "views/examples/LandingPage.js";
 import ProfilePage from "views/examples/ProfilePage.js";
+import EsteticaDental from "views/examples/EsteticaDental.js";
+import Ortodoncia from "views/examples/Ortodoncia.js";
+import CirugiaOral from "views/examples/CirugiaOral.js";
+import ImplantesDental from "views/examples/ImplantesDental.js";
+
+
 
 ReactDOM.render(
   <BrowserRouter>
@@ -43,6 +49,22 @@ ReactDOM.render(
         <Route
           path="/landing-page"
           render={(props) => <LandingPage {...props} />}
+        />
+        <Route
+          path="/ortodoncia"
+          render={(props) => <Ortodoncia {...props} />}
+        />
+        <Route
+          path="/cirugia-oral"
+          render={(props) => <CirugiaOral {...props} />}
+        />
+        <Route
+          path="/implantes-dental"
+          render={(props) => <ImplantesDental {...props} />}
+        />
+        <Route
+          path="/estetica-dental"
+          render={(props) => <EsteticaDental {...props} />}
         />
         <Route
           path="/profile-page"
