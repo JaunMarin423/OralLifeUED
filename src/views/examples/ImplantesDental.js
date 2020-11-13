@@ -42,11 +42,9 @@ function ImplantesDental() {
               <Col className="ml-auto mr-auto text-center" md="8">
                 <h2 className="title">Implantes Dentales</h2>
                 <h5 className="description">
-                  According to the National Oceanic and Atmospheric
-                  Administration, Ted, Scambos, NSIDClead scentist, puts the
-                  potentially record low maximum sea ice extent tihs year down
-                  to low ice extent in the Pacific and a late drop in ice extent
-                  in the Barents Sea.
+                  Es procedimiento mas usado a nivel mundial para recuperar los dientes perdidos,
+                  te brinda seguirdad al comer ademas de muchas ventajas como: evita perdida de hueso y encia, que queden los dientes fijos entre otros.
+                  con buenos cudiados es una ineversion que dura toda la vida.
                 </h5>
               </Col>
             </Row>

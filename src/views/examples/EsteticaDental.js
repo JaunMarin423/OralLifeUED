@@ -42,11 +42,10 @@ function EsteticaDental() {
               <Col className="ml-auto mr-auto text-center" md="8">
                 <h2 className="title">Estética Dental</h2>
                 <h5 className="description">
-                  According to the National Oceanic and Atmospheric
-                  Administration, Ted, Scambos, NSIDClead scentist, puts the
-                  potentially record low maximum sea ice extent tihs year down
-                  to low ice extent in the Pacific and a late drop in ice extent
-                  in the Barents Sea.
+                  A diferencia de lo que piensa todo el mundo, 
+                  el diseño de sonrisa consiste en varios tipos de tratamientos 
+                  para llevar a una armonia facial y dental que logra  
+                  que tu sonrisa se vea espectacular.
                 </h5>
               </Col>
             </Row>

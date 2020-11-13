@@ -42,11 +42,8 @@ function CirugiaOral() {
               <Col className="ml-auto mr-auto text-center" md="8">
                 <h2 className="title">Cirugía Oral</h2>
                 <h5 className="description">
-                  According to the National Oceanic and Atmospheric
-                  Administration, Ted, Scambos, NSIDClead scentist, puts the
-                  potentially record low maximum sea ice extent tihs year down
-                  to low ice extent in the Pacific and a late drop in ice extent
-                  in the Barents Sea.
+                  Son el conjunto de Procedimientos quirurgicos que se utilizan para tratar enfermedades de los tejidos, dientes muy dañado e
+                  impactados o cualquier intervencion que amerite abrir los tejidos.
                 </h5>
               </Col>
             </Row>

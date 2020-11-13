@@ -42,11 +42,8 @@ function Ortodoncia() {
               <Col className="ml-auto mr-auto text-center" md="8">
                 <h2 className="title">Ortodoncia</h2>
                 <h5 className="description">
-                  According to the National Oceanic and Atmospheric
-                  Administration, Ted, Scambos, NSIDClead scentist, puts the
-                  potentially record low maximum sea ice extent tihs year down
-                  to low ice extent in the Pacific and a late drop in ice extent
-                  in the Barents Sea.
+                  Gracias a ella podemos modificarla  posicion de los dientes para
+                  mejorar la armonia entre funcion y estetica de los dientes.
                 </h5>
               </Col>
             </Row>
