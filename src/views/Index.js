@@ -22,6 +22,7 @@ import Typography from "./index-sections/Typography.js";
 import Javascript from "./index-sections/Javascript.js";
 import Carousel from "./index-sections/Carousel.js";
 import NucleoIcons from "./index-sections/NucleoIcons.js";
+import ContactPosition from "./index-sections/ContactPosition.js";
 import CompleteExamples from "./index-sections/CompleteExamples.js";
 import SignUp from "./index-sections/SignUp.js";
 import Examples from "./index-sections/Examples.js";
@@ -48,7 +49,8 @@ function Index() {
         <div className="main">
           <OurServices/>
           <BeforeAfter/>
-          {/* <Images /> */}
+          <ContactPosition/>
+          {/* <Images /> 
           <BasicElements />
           <Navbars />
           <Tabs />
@@ -61,7 +63,7 @@ function Index() {
           <CompleteExamples />
           <SignUp />
           <Examples />
-          <Download />
+          <Download />*/}
         </div>
         <DarkFooter />
       </div>

@@ -5677,6 +5677,23 @@ img {
   margin: 0 auto;
 }
 
+.section-nucleo-icons .google-maps {
+  position: relative;
+  padding-bottom: 75%;
+  height: 0;
+  overflow: hidden;
+}
+
+.section-nucleo-icons .google-maps iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100% !important;
+  height: 100% !important;
+  margin: 1rem;
+  padding: 1rem;
+}
+
 .section-nucleo-icons .icons-container i {
   font-size: 34px;
   position: absolute;
