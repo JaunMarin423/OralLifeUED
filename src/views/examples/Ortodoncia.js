@@ -55,7 +55,7 @@ function Ortodoncia() {
                     className="image-container image-left"
                     style={{
                       backgroundImage:
-                        "url(" + require("assets/img/login.jpg") + ")",
+                        "url(" + require("assets/img/Ortodoncia/retenedor.png") + ")",
                     }}
                   >
                     <p className="blockquote blockquote-info">
@@ -70,7 +70,7 @@ function Ortodoncia() {
                     className="image-container"
                     style={{
                       backgroundImage:
-                        "url(" + require("assets/img/bg3.jpg") + ")",
+                        "url(" + require("assets/img/Ortodoncia/ortodoncia.jpg") + ")",
                     }}
                   ></div>
                 </Col>
@@ -79,7 +79,7 @@ function Ortodoncia() {
                     className="image-container image-right"
                     style={{
                       backgroundImage:
-                        "url(" + require("assets/img/bg1.jpg") + ")",
+                        "url(" + require("assets/img/Ortodoncia/brackets_esteticos.jpg") + ")",
                     }}
                   ></div>
                   <h3>

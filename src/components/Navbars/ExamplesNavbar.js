@@ -90,13 +90,13 @@ function ExamplesNavbar() {
           <div className="navbar-translate">
             <NavbarBrand
               href="https://oral-life-ued.vercel.app/index"
-              target="_blank"
+              
               id="navbar-brand"
             >
               Oral Life UED
             </NavbarBrand>
             <UncontrolledTooltip target="#navbar-brand">
-              Designed by Invision. Coded by Creative Tim
+             Vamos al inicio
             </UncontrolledTooltip>
             <button
               className="navbar-toggler navbar-toggler"
