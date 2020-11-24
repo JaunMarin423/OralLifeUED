@@ -57,7 +57,7 @@ function EsteticaDental() {
                     className="image-container image-left"
                     style={{
                       backgroundImage:
-                        "url(" + require("assets/img/login.jpg") + ")",
+                        "url(" + require("assets/img/Estetica Dental/carillas_dentales.jfif") + ")",
                     }}
                   >
                     <p className="blockquote blockquote-info">
@@ -72,7 +72,7 @@ function EsteticaDental() {
                     className="image-container"
                     style={{
                       backgroundImage:
-                        "url(" + require("assets/img/bg3.jpg") + ")",
+                        "url(" + require("assets/img/Estetica Dental/estetica_dental.jpg") + ")",
                     }}
                   ></div>
                 </Col>
@@ -81,7 +81,7 @@ function EsteticaDental() {
                     className="image-container image-right"
                     style={{
                       backgroundImage:
-                        "url(" + require("assets/img/bg1.jpg") + ")",
+                        "url(" + require("assets/img/Estetica Dental/blanqueamiento_dental.jpg") + ")",
                     }}
                   ></div>
                   <h3>
