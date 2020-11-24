@@ -42,8 +42,8 @@ function Ortodoncia() {
               <Col className="ml-auto mr-auto text-center" md="8">
                 <h2 className="title">Ortodoncia</h2>
                 <h5 className="description">
-                  Gracias a ella podemos modificarla  posicion de los dientes para
-                  mejorar la armonia entre funcion y estetica de los dientes.
+                  Gracias a ella podemos modificarla  posición de los dientes para
+                  mejorar la armonia entre función y estetica de los dientes.
                 </h5>
               </Col>
             </Row>

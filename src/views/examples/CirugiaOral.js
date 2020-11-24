@@ -55,7 +55,7 @@ function CirugiaOral() {
                     className="image-container image-left"
                     style={{
                       backgroundImage:
-                        "url(" + require("assets/img/login.jpg") + ")",
+                        "url(" + require("assets/img/Cirugia Oral/Cirugia_Oral.jpg") + ")",
                     }}
                   >
                     <p className="blockquote blockquote-info">
@@ -79,7 +79,7 @@ function CirugiaOral() {
                     className="image-container image-right"
                     style={{
                       backgroundImage:
-                        "url(" + require("assets/img/bg1.jpg") + ")",
+                        "url(" + require("assets/img/Cirugia Oral/cirugia.jfif") + ")",
                     }}
                   ></div>
                   <h3>
