@@ -56,7 +56,7 @@ function ImplantesDental() {
                     className="image-container image-left"
                     style={{
                       backgroundImage:
-                        "url(" + require("assets/img/login.jpg") + ")",
+                        "url(" + require("assets/img/implantes/implantes_destales.jfif") + ")",
                     }}
                   >
                     <p className="blockquote blockquote-info">
@@ -71,7 +71,7 @@ function ImplantesDental() {
                     className="image-container"
                     style={{
                       backgroundImage:
-                        "url(" + require("assets/img/bg3.jpg") + ")",
+                        "url(" + require("assets/img/implantes/implante.jfif") + ")",
                     }}
                   ></div>
                 </Col>
@@ -80,7 +80,7 @@ function ImplantesDental() {
                     className="image-container image-right"
                     style={{
                       backgroundImage:
-                        "url(" + require("assets/img/bg1.jpg") + ")",
+                        "url(" + require("assets/img/implantes/Protesis.jfif") + ")",
                     }}
                   ></div>
                   <h3>
