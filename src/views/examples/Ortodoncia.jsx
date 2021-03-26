@@ -55,7 +55,7 @@ function Ortodoncia() {
                     className="image-container image-left"
                     style={{
                       backgroundImage:
-                        "url(" + require("assets/img/Ortodoncia/retenedor.png") + ")",
+                        "url(" + require("assets/img/Ortodoncia/retenedor.jpg") + ")",
                     }}
                   >
                     <p className="blockquote blockquote-info">
