@@ -70,7 +70,7 @@ function CirugiaOral() {
                     className="image-container"
                     style={{
                       backgroundImage:
-                        "url(" + require("assets/img/bg3.jpg") + ")",
+                        "url(" + require("assets/img/Cirugia Oral/Cordales.jpg") + ")",
                     }}
                   ></div>
                 </Col>
