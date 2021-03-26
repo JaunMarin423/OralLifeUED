@@ -27,14 +27,14 @@ import "assets/demo/nucleo-icons-page-styles.css?v=1.4.0";
 // pages for this kit
 import Index from "views/Index.js";
 import NucleoIcons from "views/NucleoIcons.js";
-import LoginPage from "views/examples/LoginPage.js";
-import LandingPage from "views/examples/LandingPage.js";
-import ProfilePage from "views/examples/ProfilePage.js";
-import EsteticaDental from "views/examples/EsteticaDental.js";
-import Ortodoncia from "views/examples/Ortodoncia.js";
-import CirugiaOral from "views/examples/CirugiaOral.js";
-import ImplantesDental from "views/examples/ImplantesDental.js";
-import MoreTreatments from "views/examples/MoreTreatments.js";
+import LoginPage from "views/examples/LoginPage.jsx";
+import LandingPage from "views/examples/LandingPage.jsx";
+import ProfilePage from "views/examples/ProfilePage.jsx";
+import EsteticaDental from "views/examples/EsteticaDental.jsx";
+import Ortodoncia from "views/examples/Ortodoncia.jsx";
+import CirugiaOral from "views/examples/CirugiaOral.jsx";
+import ImplantesDental from "views/examples/ImplantesDental.jsx";
+import MoreTreatments from "views/examples/MoreTreatments.jsx";
 
 
 
