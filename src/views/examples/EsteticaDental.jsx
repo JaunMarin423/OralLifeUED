@@ -42,10 +42,8 @@ function EsteticaDental() {
               <Col className="ml-auto mr-auto text-center" md="8">
                 <h2 className="title">Estética Dental</h2>
                 <h5 className="description">
-                  A diferencia de lo que piensa todo el mundo, 
-                  el diseño de sonrisa consiste en varios tipos de tratamientos 
-                  para llevar a una armonia facial y dental que logra  
-                  que tu sonrisa se vea espectacular.
+                  Una sonrisa puede abrirte muchas puertas. juntos haremos que
+                  tu sonrisa lo logre.
                 </h5>
               </Col>
             </Row>
@@ -57,7 +55,9 @@ function EsteticaDental() {
                     className="image-container image-left"
                     style={{
                       backgroundImage:
-                        "url(" + require("assets/img/Estetica Dental/carillas_dentales.jfif") + ")",
+                        "url(" +
+                        require("assets/img/Estetica Dental/carillas_dentales.jfif") +
+                        ")",
                     }}
                   >
                     <p className="blockquote blockquote-info">
@@ -72,7 +72,9 @@ function EsteticaDental() {
                     className="image-container"
                     style={{
                       backgroundImage:
-                        "url(" + require("assets/img/Estetica Dental/estetica_dental.jpg") + ")",
+                        "url(" +
+                        require("assets/img/Estetica Dental/estetica_dental.jpg") +
+                        ")",
                     }}
                   ></div>
                 </Col>
@@ -81,41 +83,22 @@ function EsteticaDental() {
                     className="image-container image-right"
                     style={{
                       backgroundImage:
-                        "url(" + require("assets/img/Estetica Dental/blanqueamiento_dental.jpg") + ")",
+                        "url(" +
+                        require("assets/img/Estetica Dental/blanqueamiento_dental.jpg") +
+                        ")",
                     }}
                   ></div>
-                  <h3>
-                    So what does the new record for the lowest level of winter
-                    ice actually mean
-                  </h3>
+                  <h3>¿ como puedes lograr tu mejor sonrisa ?</h3>
                   <p>
-                    The Arctic Ocean freezes every winter and much of the
-                    sea-ice then thaws every summer, and that process will
-                    continue whatever happens with climate change. Even if the
-                    Arctic continues to be one of the fastest-warming regions of
-                    the world, it will always be plunged into bitterly cold
-                    polar dark every winter. And year-by-year, for all kinds of
-                    natural reasons, there’s huge variety of the state of the
-                    ice.
+                    todo comienza con una decision, "que quieras verte mejor" la
+                    sonrisa es una expresion capaz de traspasar barreras en
+                    todas partes del mundo y queremos que tu sonrisa lo haga.
                   </p>
                   <p>
-                    For a start, it does not automatically follow that a record
-                    amount of ice will melt this summer. More important for
-                    determining the size of the annual thaw is the state of the
-                    weather as the midnight sun approaches and temperatures
-                    rise. But over the more than 30 years of satellite records,
-                    scientists have observed a clear pattern of decline,
-                    decade-by-decade.
-                  </p>
-                  <p>
-                    The Arctic Ocean freezes every winter and much of the
-                    sea-ice then thaws every summer, and that process will
-                    continue whatever happens with climate change. Even if the
-                    Arctic continues to be one of the fastest-warming regions of
-                    the world, it will always be plunged into bitterly cold
-                    polar dark every winter. And year-by-year, for all kinds of
-                    natural reasons, there’s huge variety of the state of the
-                    ice.
+                    Para lograrlo tomaremos varios examenes con el fin de
+                    analizar cual es la mejor forma de tu sonrisa conr especto a
+                    tu rostro, luego de eso escogeremos cual es el mejor
+                    tratamiento para ti.
                   </p>
                 </Col>
               </Row>
