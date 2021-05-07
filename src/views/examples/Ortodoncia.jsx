@@ -59,8 +59,8 @@ function Ortodoncia() {
                     }}
                   >
                     <p className="blockquote blockquote-info">
-                      "Los tratamientos y la tecnología  avanzan con el tiempo
-                        hoy podemos ofrecerte los mejores tratamientos con la mejor tecnología." <br></br>
+                      "Los tratamientos y la tecnología  avanzan con el tiempo.
+                       Hoy podemos ofrecerte los mejores tratamientos con la mejor tecnología." <br></br>
                       <br></br>
                     </p>
                   </div>

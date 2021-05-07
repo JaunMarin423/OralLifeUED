@@ -42,8 +42,8 @@ function EsteticaDental() {
               <Col className="ml-auto mr-auto text-center" md="8">
                 <h2 className="title">Estética Dental</h2>
                 <h5 className="description">
-                  Una sonrisa puede abrirte muchas puertas. juntos haremos que
-                  tu sonrisa lo logre.
+                 A diferencia de lo que piensa todo el mundo, el diseño de sonrisa consiste en varios tipos de tratamientos
+                 para llevar a una armonía facial y dental que logra que tu sonrisa se vea espectacular.
                 </h5>
               </Col>
             </Row>
@@ -61,11 +61,10 @@ function EsteticaDental() {
                     }}
                   >
                     <p className="blockquote blockquote-info">
-                      "Over the span of the satellite record, Arctic sea ice has
-                      been declining significantly, while sea ice in the
-                      Antarctichas increased very slightly" <br></br>
+                      "Una sonrisa puede abrirte muchas puertas. juntos haremos que
+                       tu sonrisa lo logre." <br></br>
                       <br></br>
-                      <small>-NOAA</small>
+                      
                     </p>
                   </div>
                   <div

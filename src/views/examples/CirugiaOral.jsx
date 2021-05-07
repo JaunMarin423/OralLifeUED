@@ -59,11 +59,9 @@ function CirugiaOral() {
                     }}
                   >
                     <p className="blockquote blockquote-info">
-                      "Over the span of the satellite record, Arctic sea ice has
-                      been declining significantly, while sea ice in the
-                      Antarctichas increased very slightly" <br></br>
+                      "Gracias a las imágenes de diagnóstico como la radiografía panorámica, 
+                        podemos diagnósticar y prevenir enfermedades orales." <br></br>
                       <br></br>
-                      <small>-NOAA</small>
                     </p>
                   </div>
                   <div
@@ -83,37 +81,17 @@ function CirugiaOral() {
                     }}
                   ></div>
                   <h3>
-                    So what does the new record for the lowest level of winter
-                    ice actually mean
+                    ¿Cuándo es necesario realizar intervenciones quirúrgicas?
                   </h3>
                   <p>
-                    The Arctic Ocean freezes every winter and much of the
-                    sea-ice then thaws every summer, and that process will
-                    continue whatever happens with climate change. Even if the
-                    Arctic continues to be one of the fastest-warming regions of
-                    the world, it will always be plunged into bitterly cold
-                    polar dark every winter. And year-by-year, for all kinds of
-                    natural reasons, there’s huge variety of the state of the
-                    ice.
+                    Siempre, antes de cualquier intervención quirúrgica es necesario un examen y un diagnóstico. Dependiendo el diagnóstico nuestros especialistas decidirán si es necesario o no.
                   </p>
                   <p>
-                    For a start, it does not automatically follow that a record
-                    amount of ice will melt this summer. More important for
-                    determining the size of the annual thaw is the state of the
-                    weather as the midnight sun approaches and temperatures
-                    rise. But over the more than 30 years of satellite records,
-                    scientists have observed a clear pattern of decline,
-                    decade-by-decade.
+                    Para cualquier intervención quirúrgica necesitamos exámenes radiológicos
+                    que nos permiten tener una información más clara de lo que está pasando internamente.
                   </p>
                   <p>
-                    The Arctic Ocean freezes every winter and much of the
-                    sea-ice then thaws every summer, and that process will
-                    continue whatever happens with climate change. Even if the
-                    Arctic continues to be one of the fastest-warming regions of
-                    the world, it will always be plunged into bitterly cold
-                    polar dark every winter. And year-by-year, for all kinds of
-                    natural reasons, there’s huge variety of the state of the
-                    ice.
+                    Junto a nuestros especialistas se evaluará el caso para darle un diagnóstico y planear el tratamiento.
                   </p>
                 </Col>
               </Row>
