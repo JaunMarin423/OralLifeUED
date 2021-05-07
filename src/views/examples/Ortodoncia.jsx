@@ -41,10 +41,10 @@ function Ortodoncia() {
             <Row>
               <Col className="ml-auto mr-auto text-center" md="8">
                 <h2 className="title">Ortodoncia</h2>
-                <h5 className="description">
+                <h4 className="description">
                   Gracias a ella podemos modificarla  posición de los dientes para
                   mejorar la armonia entre función y estetica de los dientes.
-                </h5>
+                </h4>
               </Col>
             </Row>
             <div className="separator separator-primary"></div>
@@ -59,11 +59,9 @@ function Ortodoncia() {
                     }}
                   >
                     <p className="blockquote blockquote-info">
-                      "Over the span of the satellite record, Arctic sea ice has
-                      been declining significantly, while sea ice in the
-                      Antarctichas increased very slightly" <br></br>
+                      "Los tratamientos y la tecnología  avanzan con el tiempo
+                        hoy podemos ofrecerte los mejores tratamientos con la mejor tecnología." <br></br>
                       <br></br>
-                      <small>-NOAA</small>
                     </p>
                   </div>
                   <div
@@ -83,37 +81,13 @@ function Ortodoncia() {
                     }}
                   ></div>
                   <h3>
-                    So what does the new record for the lowest level of winter
-                    ice actually mean
+                    Una armonía que te beneficia en estética y función.
                   </h3>
                   <p>
-                    The Arctic Ocean freezes every winter and much of the
-                    sea-ice then thaws every summer, and that process will
-                    continue whatever happens with climate change. Even if the
-                    Arctic continues to be one of the fastest-warming regions of
-                    the world, it will always be plunged into bitterly cold
-                    polar dark every winter. And year-by-year, for all kinds of
-                    natural reasons, there’s huge variety of the state of the
-                    ice.
-                  </p>
-                  <p>
-                    For a start, it does not automatically follow that a record
-                    amount of ice will melt this summer. More important for
-                    determining the size of the annual thaw is the state of the
-                    weather as the midnight sun approaches and temperatures
-                    rise. But over the more than 30 years of satellite records,
-                    scientists have observed a clear pattern of decline,
-                    decade-by-decade.
-                  </p>
-                  <p>
-                    The Arctic Ocean freezes every winter and much of the
-                    sea-ice then thaws every summer, and that process will
-                    continue whatever happens with climate change. Even if the
-                    Arctic continues to be one of the fastest-warming regions of
-                    the world, it will always be plunged into bitterly cold
-                    polar dark every winter. And year-by-year, for all kinds of
-                    natural reasons, there’s huge variety of the state of the
-                    ice.
+                    La ortodoncia es una ciencia que nos permite evaluar y
+                    modificar la función, posición y estética de nuestra boca.
+                    Junto a nuestros especialistas analizaremos el estado de tus dientes y escogeremos la mejor opción de tratamiento para ti.
+                    Podrás escoger entre una gran variedad de materiales y tipos de brackts.
                   </p>
                 </Col>
               </Row>
