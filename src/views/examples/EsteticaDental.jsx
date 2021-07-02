@@ -42,8 +42,8 @@ function EsteticaDental() {
               <Col className="ml-auto mr-auto text-center" md="8">
                 <h2 className="title">Estética Dental</h2>
                 <h5 className="description">
-                 A diferencia de lo que piensa todo el mundo, el diseño de sonrisa consiste en varios tipos de tratamientos
-                 para llevar a una armonía facial y dental que logra que tu sonrisa se vea espectacular.
+                  A diferencia de lo que piensa todo el mundo, el diseño de sonrisa consiste en varios tipos de tratamientos
+                  para llevar a una armonía facial y dental que logra que tu sonrisa se vea espectacular.
                 </h5>
               </Col>
             </Row>
@@ -62,9 +62,8 @@ function EsteticaDental() {
                   >
                     <p className="blockquote blockquote-info">
                       "Una sonrisa puede abrirte muchas puertas. juntos haremos que
-                       tu sonrisa lo logre." <br></br>
+                      tu sonrisa lo logre." <br></br>
                       <br></br>
-                      
                     </p>
                   </div>
                   <div
